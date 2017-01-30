@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-l_prime = 0
 number = 13714
 limit = np.int(np.ceil(np.sqrt(number)))
 
