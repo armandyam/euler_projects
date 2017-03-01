@@ -4,8 +4,8 @@ import numpy as np
 max_no = -1
 i_max = 0
 j_max = 0
-for i in range(1,1000):
-	for j in range(1, 1000):
+for i in range(100,1000):
+	for j in range(100, 1000):
 		number = i*j
 		rev_number = str(number)[::-1]
 		if(str(number)==rev_number):
