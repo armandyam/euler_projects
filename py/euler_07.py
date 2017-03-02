@@ -1,13 +1,12 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-count = 0
 number = 4
 start = 2
 no_comp = 0
 no_prime = 0
 prime_arr = [2,3]
-end = 9998
+end = 9999
 
 while(no_prime<end):
 	lim = np.int(np.ceil(np.sqrt(number)))+1
