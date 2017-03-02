@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-count = 0
 number = 4
 start = 2
 no_comp = 0
