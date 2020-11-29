@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+__author__ = "Ajay Rangarajan, Jeyashree Krishnan"
+__email__ = "rangarajan, krishnan@aices.rwth-aachen.de"
+
+
 from itertools import permutations
 import numpy as np 
 from isprime import *

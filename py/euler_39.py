@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+__author__ = "Ajay Rangarajan, Jeyashree Krishnan"
+__email__ = "rangarajan, krishnan@aices.rwth-aachen.de"
+
+
+
 import numpy as np 
 
 p = np.arange(0,1001,2)

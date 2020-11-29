@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+__author__ = "Ajay Rangarajan, Jeyashree Krishnan"
+__email__ = "rangarajan, krishnan@aices.rwth-aachen.de"
+
+
 import numpy as np 
 def is_prime(number):
 	# If the number is 0 or 1 then it is not a prime number

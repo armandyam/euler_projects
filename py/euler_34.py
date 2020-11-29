@@ -1,8 +1,17 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+__author__ = "Ajay Rangarajan, Jeyashree Krishnan"
+__email__ = "rangarajan, krishnan@aices.rwth-aachen.de"
+
+
 import numpy as np
 import math as mp
 import matplotlib.pyplot as plt
+
 fc = []
 n_val = []
+
 def factdigits(n):
 	string = str(n)
 	ans = 0
